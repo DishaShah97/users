@@ -1,5 +1,5 @@
-name,uid
-Morpheus,1
-John,2
-Nick,3
-Ronald,4
+uname,fname,lname,email,uid
+Morpheus,Morphy,Richards,morphyR@gmail.com,1
+Johnp,John,Patrick,johnP@gmail.com,2
+Nickj,Nick,Jonas,nickJ@gmail.com,3
+Jamesb,James,Bond,JamesB@gmail.com,4
